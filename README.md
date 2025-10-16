@@ -1,69 +1,83 @@
 # 👋 Hey there, I'm Ajeet Sarooj  
 
 💻 **Full Stack Developer | Node.js | React | Next.js | Java | AWS**  
-🚀 2+ years of experience building scalable web apps and backend systems.  
-🌱 Currently exploring Cloud Architecture, DevOps, and Microservices.
+🚀 2+ years of hands-on experience building modern, scalable, and high-performing web applications.  
+🌱 Currently diving deeper into **Cloud Architecture**, **Microservices**, and **DevOps automation**.
 
 ---
 
 ### 🧠 About Me  
-I'm a passionate developer who loves turning ideas into real, working products.  
-From crafting smooth UI in **React** to optimizing APIs with **Node.js** or **Java**,  
-I enjoy every part of the development journey — front to back.  
+I’m a developer who believes great software is a mix of clean code, smart design, and user-focused thinking.  
+From building seamless UI with **React** and **Next.js** to writing optimized backend logic in **Node.js** and **Java**,  
+I love connecting all the pieces that bring ideas to life.  
 
-✨ I believe in clean code, meaningful design, and learning something new every day.  
-
----
-
-### ⚙️ Tech Stack
-
-#### 🖥️ Frontend
-- React.js / Next.js  
-- JavaScript / TypeScript  
-- Tailwind CSS / Bootstrap  
-- Redux / Zustand  
-
-#### ⚙️ Backend
-- Node.js / Express.js  
-- Java (Spring Boot)  
-- REST APIs / GraphQL  
-- MongoDB / MySQL / PostgreSQL  
-
-#### ☁️ DevOps & Cloud
-- AWS (EC2, S3, Lambda)  
-- Docker / CI-CD / GitHub Actions  
-- Nginx / PM2 / Jenkins  
-
-#### 🛠️ Tools & Others
-- VS Code / Postman / Figma  
-- Git & GitHub  
-- JWT / OAuth  
-- Agile & Scrum  
+💬 I enjoy working on products that make a real difference — learning, building, and improving every single day.  
 
 ---
 
- 
-### 🌍 Connect with Me
+### ⚙️ Tech Stack  
+
+#### 🖥️ Frontend  
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,bootstrap,redux" />
+</p>
+
+#### ⚙️ Backend  
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,mongodb,mysql,postgres,graphql" />
+</p>
+
+#### ☁️ DevOps & Cloud  
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,jenkins,nginx,githubactions" />
+</p>
+
+#### 🛠️ Tools & Others  
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,postman,git,figma,linux" />
+</p>
+
+---
+
+### 🧩 Featured Projects  
+
+🚀 **Property Management System**  
+A full-stack web app to manage property listings, featuring authentication, role-based access, and AWS deployment.  
+
+🧠 **ThumbnailGuru**  
+Smart thumbnail generator built using React & Node.js for creators and marketers.  
+
+💬 **ChatConnect**  
+A real-time chat app using WebSockets and MongoDB with modern UI and live status indicators.  
+
+> *Check out more cool projects below 👇*  
+
+---
+
+### 🌍 Connect with Me  
 - 💼 [LinkedIn](https://linkedin.com/in/your-profile)  
-- 🐦 [Twitter](https://twitter.com/your-handle) 
+- 🐦 [Twitter](https://twitter.com/your-handle)  
+- 📧 **ajeet.sarooj@example.com**
 
 ---
 
-### 💬 Fun Fact
-> I can debug faster with coffee ☕ and lo-fi beats 🎧  
+### 💬 Fun Fact  
+> I can fix a bug faster than I can explain it 😄☕  
 
 ---
 
-### 🏆 GitHub Stats  
+### 🏆 GitHub Highlights  
 
 ![Ajeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight)
 
 ---
 
-### ✨ Quote I Live By
-> "Keep building. Keep learning. Stay curious."
+### ✨ A Little Motivation  
+> “Code is like humor — when you have to explain it, it’s bad.” 😄  
+> “Keep building. Keep learning. Stay curious.”  
 
 ---
 
-⭐ If you like my work, feel free to follow or drop a star on my projects!
+⭐ If my projects inspire you, don’t forget to drop a star or connect — let’s build something amazing together!
