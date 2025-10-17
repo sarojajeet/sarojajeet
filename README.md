@@ -57,26 +57,11 @@ I love connecting all the pieces that bring ideas to life.
 
 ---
 
-### 🧩 Featured Projects  
-
-🚀 **Property Management System**  
-A full-stack web app to manage property listings, featuring authentication, role-based access, and AWS deployment.  
-
-🧠 **ThumbnailGuru**  
-Smart thumbnail generator built using React & Node.js for creators and marketers.  
-
-💬 **ChatConnect**  
-A real-time chat app using WebSockets and MongoDB with modern UI and live status indicators.  
-
-> *Check out more cool projects below 👇*  
-
----
 
 ### 🌍 Connect with Me  
 - 💼 [LinkedIn](https://linkedin.com/in/your-profile)  
-- 🐦 [Twitter](https://twitter.com/your-handle)  
-- 📧 **ajeet.sarooj@example.com**
-
+- 🐦 [Twitter](https://twitter.com/your-handle)
+  
 ---
 
 ### 💬 Fun Fact  
